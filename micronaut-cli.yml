@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.phoebus
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-mongodb, http-client-test, java, java-application, junit, kafka, logback, lombok, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, mongo-sync, netty-server, properties, readme, redis-lettuce, serialization-jackson, shade, static-resources, test-resources]
